@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**MBabu215/MBabu215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 I'm Maryam Athman Babu  
 
-Here are some ideas to get you started:
+🎯 **Data Analyst | Data Scientist | Problem Solver**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about **data-driven insights, storytelling with data, and building scalable solutions**.  
+My focus lies in transforming raw data into actionable insights through **exploratory analysis, visualization, and predictive modeling**.  
+
+---
+
+## 🔧 Tech Stack  
+
+**Languages & Tools:**  
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- 🗄️ SQL (PostgreSQL, MySQL, SQLite)  
+- 📊 Power BI | Excel (Advanced formulas, Pivot Tables, Power Query, VBA)  
+- 📈 Statistics & Hypothesis Testing  
+- 🧮 Machine Learning (Regression, Classification, Clustering, Time Series)  
+- 📂 Data Wrangling, Cleaning, and ETL  
+- 🧑‍💻 Jupyter Notebook | Google Colab  
+- 🔮 Git & GitHub for version control  
+
+---
+
+## 📊 What I Do  
+- 📝 Clean, analyze, and visualize datasets to uncover patterns and trends.  
+- 🤖 Build machine learning models to solve predictive and classification problems.  
+- 📉 Translate business problems into data-driven insights and reports.  
+- 📌 Create interactive dashboards in **Power BI** and **Excel** for decision-making.  
+
+---
+
+## 🚀 Current Focus  
+- Enhancing my **machine learning and deep learning** skills.  
+- Building **end-to-end data science projects** and deploying them.  
+- Exploring **Big Data tools (Spark, Hadoop)** and **Cloud Platforms (AWS, Azure, GCP)**.  
+
+---
+
+## 📂 Featured Projects  
+🔗 *(Add links to your projects here, e.g., repositories on GitHub)*  
+- [📊 Data Cleaning & Visualization with Python](#)  
+- [🤖 Machine Learning Model for Classification](#)  
+- [📈 Power BI Dashboard for Sales Insights](#)  
+- [🧮 SQL Queries for Business Analysis](#)  
+
+---
+
+## 📫 Let's Connect  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/maryam-athman-babu-53a16619a/) 
+- 📧 Email: *(maryambabu@gmail.com)*  
+- 🐦 Twitter/X: *(optional)*  
+
+---
+
+⭐️ From [Maryam Athman Babu](https://github.com/MaryamBabu)  
+
